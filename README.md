@@ -1,5 +1,5 @@
 T4K 🌌 ~ python introduction.py
-<h1 align="center">Hi 👋, I'm Takuro</h1>
+<h1 align="center">Hi, I'm Takuro</h1>
 <h3 align="center">A beginner in computer science from India</h3>
 
 T4K 🌌 ~ whoami
